@@ -1,9 +1,10 @@
-### Ola ! Eu sou o Filipe, seja bem vindo ao meu perfil !🤙
+### 👋 Ola ! Eu sou o Filipe, seja bem vindo ao meu perfil !🤙
 
 - 🔭 Atualmente procurando por oportunidades em Front-End !
 - 🌱 Estudando atualmente React.JS e .PHP
 - 📫 Contato : filipesoaresilva@gmail.com
 - 🤔 Curiosidade: arquiteto formado em 2013 procurando por novos ares.
+- 👅 Fluente em inglês e português.
 
 <div align="center">
   <a href="https://github.com/FilipeSoaresS">
