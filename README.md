@@ -3,7 +3,7 @@
 - 🔭 Atualmente procurando por oportunidades em Front-End !
 - 🌱 Estudando atualmente React.JS e .PHP
 - 📫 Contato : filipesoaresilva@gmail.com
-- 🤔 Curiosidade: arquiteto formado em 2013 procurando por novos ares.
+- 🤔 Curiosidade: arquiteto formado em 2013 procurando por novas oportunidades!
 - 👅 Fluente em inglês e português.
 
 <div align="center">
