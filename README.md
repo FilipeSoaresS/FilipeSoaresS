@@ -1,10 +1,10 @@
-![image](https://github.com/FilipeSoaresS/FilipeSoaresS/assets/108681200/a1014d64-b529-4a4f-9ce8-17b5aa9488dd)### 👋 Ola ! Eu sou o Filipe, seja bem vindo ao meu perfil !🤙
+###  Ola ! Eu sou o Filipe, seja bem vindo ao meu perfil !🤙
 
 - 🔭 Atualmente procurando por oportunidades em Front-End !
 - 🌱 Estudando atualmente desenvolvimento em front-end.
 - 📫 Contato : filipesoaresilva@gmail.com
 - 🤔 Curiosidade: arquiteto formado em 2013 procurando por novas oportunidades!
-- 👅 Fluente em inglês e português.
+- 😲 Fluente em inglês e português.
 
 <div align="center">
   <a href="https://github.com/FilipeSoaresS">
