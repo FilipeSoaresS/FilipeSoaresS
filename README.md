@@ -16,7 +16,7 @@
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lipe-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg)">
+  <img align="center" alt="Lipe-HTML" height="30" width="40" src="">
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
