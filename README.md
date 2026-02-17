@@ -1,7 +1,7 @@
 ###  Ola ! Eu sou o Filipe, seja bem vindo ao meu perfil !🤙
 
-- 🔭 Atualmente procurando por oportunidades em Front-End !
-- 🌱 Estudando atualmente desenvolvimento em front-end.
+- 🔭 Atualmente sou aluno da TripleTen, executando bootcamp na área de desenvolvedor web !
+- 🌱 Estudando atualmente desenvolvimento web.
 - 📫 Contato : filipesoaresilva@gmail.com
 - 🤔 Curiosidade: arquiteto formado em 2013 procurando por novas oportunidades!
 - 😲 Fluente em inglês e português.
