@@ -31,9 +31,9 @@ I'm passionate about creating clean, functional and scalable user experiences â€
 
 ## ðŸ“Š GitHub Stats
 
-![GitHub Stats](https://gh-readme-stats-production.up.railway.app/api?username=FilipeSoaresS&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-tau-ashy-99.vercel.app/api?username=FilipeSoaresS&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![Top Langs](https://gh-readme-stats-production.up.railway.app/api/top-langs/?username=FilipeSoaresS&layout=compact&langs_count=7&theme=d
+![Top Langs](https://github-readme-stats-tau-ashy-99.vercel.app/api/top-langs/?username=FilipeSoaresS&layout=compact&langs_count=7&theme=dark)
 
 ---
 
