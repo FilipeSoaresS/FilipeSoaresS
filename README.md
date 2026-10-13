@@ -35,13 +35,6 @@ I'm passionate about creating clean, functional and scalable user experiences â€
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSoaresS&layout=compact&langs_count=7&theme=dark)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSoaresS&layout=compact&langs_count=7&theme=dark"
-    alt="Most Used Languages"
-  />
-</p>
-
 ---
 
 ## ðŸ”— Connect With Me
