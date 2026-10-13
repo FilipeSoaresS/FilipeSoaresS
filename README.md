@@ -31,12 +31,9 @@ I'm passionate about creating clean, functional and scalable user experiences â€
 
 ## ðŸ“Š GitHub Stats
 
-<p align="center">
-  <img
-    src="[https://github-readme-stats.vercel.app/api?username=FilipeSoaresS&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=FilipeSoaresS&theme=dark&show_icons=true&hide=commits,contribs"
-    alt="Filipe's GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeSoaresS&show_icons=true&theme=dark&hide=commits,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSoaresS&layout=compact&langs_count=7&theme=dark)
 
 <p align="center">
   <img
